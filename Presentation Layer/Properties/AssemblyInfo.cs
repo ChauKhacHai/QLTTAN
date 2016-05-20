@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("QLTTAN")]
+[assembly: AssemblyTitle("Presentation Layer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("QLTTAN")]
+[assembly: AssemblyProduct("Presentation Layer")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("80cffc49-ef9d-41ad-b47e-a7fe3a9b711c")]
+[assembly: Guid("1223a332-e174-4b7d-bd99-b574a3a9af02")]
 
 // Version information for an assembly consists of the following four values:
 //
