@@ -14,7 +14,7 @@ namespace DAO
             {
                 try
                 {
-                    conn.ConnectionString = @"Data Source=DESKTOP-HF4OEK1\\SQLEXPRESS;Initial Catalog=SQL_QLTA;Integrated Security=True";
+                    conn.ConnectionString = @"Data Source=DESKTOP-CO87NKH;Initial Catalog=SQL_QLTA;Integrated Security=True";
                 }
                 catch (Exception)
                 {
