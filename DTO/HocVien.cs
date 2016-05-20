@@ -14,18 +14,10 @@ namespace DTO
         public string _diachi { get; set; }
         public string _sdt { get; set; }
         public string _malop { get; set; }
-        public string _nohp { get; set; }
+        public double _nohp { get; set; }
 
         public HocVien() { }
-        public HocVien(
-            string mahv,
-            string hoten,
-            string phai,
-            string diachi,
-            string sdt,
-            string malop,
-            string nohp
-           )
+        public HocVien(string mahv,string hoten,string phai,string diachi,string sdt,string malop,double nohp)
         {
             this._mahv = mahv;
             this._hoten = hoten;
@@ -34,8 +26,6 @@ namespace DTO
             this._sdt = sdt;
             this._malop = malop;
             this._nohp = nohp;
-
         }
-
     }
 }
