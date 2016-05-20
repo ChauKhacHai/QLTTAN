@@ -8,3 +8,31 @@ E:\github\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.exe
 E:\github\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.pdb
 E:\github\QLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.fMaincs.resources
 C:\Users\WINUIT\Documents\GitHub\QLTTAN\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+C:\Users\Hai Chau Khac\Desktop\QLTTAN\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+C:\Users\Hai Chau Khac\Desktop\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.csprojResolveAssemblyReference.cache
+C:\Users\Hai Chau Khac\Desktop\QLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.fMaincs.resources
+C:\Users\Hai Chau Khac\Desktop\QLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+C:\Users\Hai Chau Khac\Desktop\QLTTAN\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.Cache
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\Presentation Layer.exe.config
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\obj\Debug\Presentation Layer.csprojResolveAssemblyReference.cache
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.fMaincs.resources
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\obj\Debug\Presentation_Layer.Properties.Resources.resources
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\obj\Debug\Presentation Layer.csproj.GenerateResource.Cache
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\Presentation Layer.exe
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\Presentation Layer.pdb
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\DevComponents.DotNetBar.Layout.Design.dll
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\DevComponents.SuperGrid.Design.dll
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\obj\Debug\Presentation Layer.exe
+C:\Users\Hai Chau Khac\Documents\GitHub\NEWQLTTAN\Presentation Layer\obj\Debug\Presentation Layer.pdb
