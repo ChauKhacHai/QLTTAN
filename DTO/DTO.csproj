@@ -39,8 +39,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CaHoc.cs" />
+    <Compile Include="ChuongTrinhHoc.cs" />
+    <Compile Include="DanhSachLop.cs" />
+    <Compile Include="DanhSachThi.cs" />
+    <Compile Include="DeThi.cs" />
+    <Compile Include="GiangVien.cs" />
     <Compile Include="HocVien.cs" />
+    <Compile Include="KhoaHoc.cs" />
+    <Compile Include="LoaiDeThi.cs" />
+    <Compile Include="Lop.cs" />
+    <Compile Include="NgayHoc.cs" />
+    <Compile Include="PhongHoc.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThongTinDangKy.cs" />
+    <Compile Include="TrinhDo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
