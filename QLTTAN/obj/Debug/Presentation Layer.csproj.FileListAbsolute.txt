@@ -1,0 +1,5 @@
+C:\Users\WINUIT\documents\visual studio 2013\Projects\QLTTAN\QLTTAN\bin\Debug\QLTTAN.dll
+C:\Users\WINUIT\documents\visual studio 2013\Projects\QLTTAN\QLTTAN\bin\Debug\QLTTAN.pdb
+C:\Users\WINUIT\documents\visual studio 2013\Projects\QLTTAN\QLTTAN\obj\Debug\Presentation Layer.csprojResolveAssemblyReference.cache
+C:\Users\WINUIT\documents\visual studio 2013\Projects\QLTTAN\QLTTAN\obj\Debug\QLTTAN.dll
+C:\Users\WINUIT\documents\visual studio 2013\Projects\QLTTAN\QLTTAN\obj\Debug\QLTTAN.pdb
