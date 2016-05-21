@@ -8,9 +8,9 @@ namespace DTO
 {
     public class LoaiDeThi
     {
-        string _maloaidethi;
-        string _tenloidethi;
-        float _thoiluongdethi;
+        string _maloaidethi { get; set; }
+        string _tenloidethi { get; set; }
+        float _thoiluongdethi { get; set; }
 
         public LoaiDeThi() { }
         public LoaiDeThi(string maloaidethi, string tenloaidethi, float thoiluongthi)

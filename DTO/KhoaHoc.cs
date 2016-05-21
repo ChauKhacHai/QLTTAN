@@ -8,9 +8,9 @@ namespace DTO
 {
     public class KhoaHoc
     {
-        public string _makhoahoc;
-        public string _tenkhoahoc;
-        public DateTime _ngaykhaigiang;
+        public string _makhoahoc{get;set;};
+        public string _tenkhoahoc { get; set; };
+        public DateTime _ngaykhaigiang { get; set; };
         public KhoaHoc() { }
         public KhoaHoc(string makhoahoc, string tenkhoahoc, DateTime ngaykhaigiang)
         {

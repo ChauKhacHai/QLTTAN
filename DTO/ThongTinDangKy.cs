@@ -8,16 +8,16 @@ namespace DTO
 {
     public class ThongTinDangKy
     {
-        public string _mahv;
-        public DateTime _ngaydangky;
-        public string _trangthai;
-        public int _soluongcuochen;
-        public string _mangayranh;
-        public string _macaranh;
-        public string _matrinhdohientai;
-        public string _matrinhdomuonhoc;
-        public string _matrinhdoduochoc;
-        public string _makithixeplop;
+        public string _mahv { get; set; }
+        public DateTime _ngaydangky { get; set; }
+        public string _trangthai { get; set; }
+        public int _soluongcuochen { get; set; }
+        public string _mangayranh { get; set; }
+        public string _macaranh { get; set; }
+        public string _matrinhdohientai { get; set; }
+        public string _matrinhdomuonhoc { get; set; }
+        public string _matrinhdoduochoc { get; set; }
+        public string _makithixeplop { get; set; }
         public ThongTinDangKy() { }
         public ThongTinDangKy(string mahv, DateTime ngaydangky, string trangthai, int soluongcuochen, string mangayranh, string macaranh, string matrinhdohientai, string matrinhdomuonhoc, string matrinhdoduochoc, string makithixeplop)
         {

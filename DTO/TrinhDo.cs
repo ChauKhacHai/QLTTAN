@@ -8,10 +8,10 @@ namespace DTO
 {
     public class TrinhDo
     {
-        public string _matrinhdo;
-        public string _tentrinhdo;
-        public string _maloaidethi;
-        public string _trinhdotienquyet;
+        public string _matrinhdo { get; set; }
+        public string _tentrinhdo { get; set; }
+        public string _maloaidethi { get; set; }
+        public string _trinhdotienquyet { get; set; }
         public TrinhDo() { }
         public TrinhDo(string matrinhdo,string tentrinhdo,string maloaidethi,string trinhdotienquyet)
         {

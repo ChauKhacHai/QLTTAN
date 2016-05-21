@@ -8,8 +8,8 @@ namespace DTO
 {
     public class GiangVien
     {
-        public string _magv;
-        public string _tengv;
+        public string _magv { get; set; }
+        public string _tengv { get; set; }
         public GiangVien()
         {
 

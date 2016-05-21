@@ -8,9 +8,9 @@ namespace DTO
 {
     public class PhongHoc
     {
-        public string _maphong;
-        public string _tenphong;
-        public string _diadiem;
+        public string _maphong { get; set; }
+        public string _tenphong { get; set; }
+        public string _diadiem { get; set; }
         PhongHoc() { }
         PhongHoc(string maphong,string tenphong,string diadiem)
         {
